@@ -1,0 +1,32 @@
+D:\OGKGlab\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.exe
+D:\OGKGlab\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.deps.json
+D:\OGKGlab\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.runtimeconfig.json
+D:\OGKGlab\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.runtimeconfig.dev.json
+D:\OGKGlab\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.dll
+D:\OGKGlab\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.pdb
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.csproj.AssemblyReference.cache
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.Form1.resources
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.csproj.GenerateResource.cache
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.GeneratedMSBuildEditorConfig.editorconfig
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.AssemblyInfoInputs.cache
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.AssemblyInfo.cs
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.csproj.CoreCompileInputs.cache
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.dll
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.pdb
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.genruntimeconfig.cache
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.exe
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.deps.json
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.runtimeconfig.json
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.runtimeconfig.dev.json
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.dll
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.pdb
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.csproj.AssemblyReference.cache
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.Form1.resources
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.csproj.GenerateResource.cache
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.AssemblyInfoInputs.cache
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.AssemblyInfo.cs
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.csproj.CoreCompileInputs.cache
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.dll
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.pdb
+C:\Users\DinaFormakidov\Desktop\3 course 2 sem\Geom & Graphics\LABA\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.genruntimeconfig.cache

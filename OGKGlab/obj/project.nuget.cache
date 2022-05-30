@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fN7KYxX5vO+sGKAmSDq7ckIsTsZtq8pEPccUeRh+pQhpvYuGttpgEHpJPm+esUZzNVDw2vZ3IveHlJv35sxi1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DinaFormakidov\\Desktop\\3 course 2 sem\\Geom & Graphics\\LABA\\OGKGlab\\OGKGlab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DinaFormakidov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

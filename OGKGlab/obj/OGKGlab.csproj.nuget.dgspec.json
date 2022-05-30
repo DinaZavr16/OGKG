@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DinaFormakidov\\Desktop\\3 course 2 sem\\Geom & Graphics\\LABA\\OGKGlab\\OGKGlab.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DinaFormakidov\\Desktop\\3 course 2 sem\\Geom & Graphics\\LABA\\OGKGlab\\OGKGlab.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DinaFormakidov\\Desktop\\3 course 2 sem\\Geom & Graphics\\LABA\\OGKGlab\\OGKGlab.csproj",
+        "projectName": "OGKGlab",
+        "projectPath": "C:\\Users\\DinaFormakidov\\Desktop\\3 course 2 sem\\Geom & Graphics\\LABA\\OGKGlab\\OGKGlab.csproj",
+        "packagesPath": "C:\\Users\\DinaFormakidov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DinaFormakidov\\Desktop\\3 course 2 sem\\Geom & Graphics\\LABA\\OGKGlab\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DinaFormakidov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.com/api/v4/projects/29338598/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.21, 3.1.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
